@@ -1,0 +1,13 @@
+2026-03-30 00:08:56,640 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-03-30 00:08:56,640 - FileSystemWatcher - INFO - Drop folder: ..\AI_Employee_Vault\Inbox
+2026-03-30 00:08:56,641 - FileSystemWatcher - INFO - Scanning for existing files in drop folder...
+2026-03-30 00:08:56,643 - FileSystemWatcher - INFO - Watching for new files in ..\AI_Employee_Vault\Inbox
+2026-03-30 00:10:43,212 - FileSystemWatcher - INFO - New file detected: test_file.md
+2026-03-30 00:10:43,226 - FileSystemWatcher - INFO - Copied file to ..\AI_Employee_Vault\Needs_Action\FILE_test_file.md
+2026-03-30 00:10:43,227 - FileSystemWatcher - INFO - Created metadata file: FILE_test_file.md.meta.md
+2026-03-30 00:30:42,293 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-03-30 00:30:42,293 - FileSystemWatcher - INFO - Drop folder: ..\AI_Employee_Vault\Inbox
+2026-03-30 00:30:42,294 - FileSystemWatcher - INFO - Scanning for existing files in drop folder...
+2026-03-30 00:30:42,296 - FileSystemWatcher - INFO - Watching for new files in ..\AI_Employee_Vault\Inbox
+2026-03-30 00:34:42,990 - FileSystemWatcher - INFO - New file detected: test_file.md
+2026-03-30 00:34:42,990 - FileSystemWatcher - INFO - New file detected: test_file.md
